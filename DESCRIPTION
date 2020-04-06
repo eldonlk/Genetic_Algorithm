@@ -1,0 +1,13 @@
+Package: GA
+Title: This package implements a genetic algorithm for variable selection in regression problems, including both linear regression and GLMs.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Eldon", "Chan", role = c("aut", "cre"), email = "eldonlk@gmail.com")
+Description: This package implements a genetic algorithm for variable selection in regression problems, including both linear regression and GLMs.
+Encoding: UTF-8
+LazyData: true
+Depends:
+    assertthat,
+    testthat,
+    tidyverse
+RoxygenNote: 7.0.2
